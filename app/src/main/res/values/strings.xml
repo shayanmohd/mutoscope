@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mutoscope</string>
+    <string name="privacy_policy_url" translatable="false">https://shayanmohd.github.io/mutoscope/privacy-policy.html</string>
+    <string name="licence_material_icons">Material Icons, copyright Google LLC, used under the Apache License, Version 2.0. You may obtain a copy of the licence at apache.org/licenses/LICENSE-2.0. The icons are distributed on an "as is" basis, without warranties or conditions of any kind.</string>
+</resources>

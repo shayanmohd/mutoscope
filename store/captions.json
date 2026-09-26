@@ -1,0 +1,15 @@
+{
+  "background": "#C83CD7",
+  "text": "#14061C",
+  "frame": "#14061C",
+  "font": "fonts/Anybody.ttf",
+  "weight": 750,
+  "shots": [
+    { "src": "screenshots-raw/01-reels-and-cycle-marker.png", "out": "screenshots/01-reels-and-cycle-marker.png", "caption": "Each layer loops on its own length" },
+    { "src": "screenshots-raw/02-onion-skin.png", "out": "screenshots/02-onion-skin.png", "caption": "Onion skin shows nearby frames" },
+    { "src": "screenshots-raw/03-brushes.png", "out": "screenshots/03-brushes.png", "caption": "Pencil, ink and marker brushes" },
+    { "src": "screenshots-raw/04-export.png", "out": "screenshots/04-export.png", "caption": "GIF or MP4, with no watermark" },
+    { "src": "screenshots-raw/05-hold-on-twos-dark.png", "out": "screenshots/05-hold-on-twos-dark.png", "caption": "Hold on twos, shift the phase" },
+    { "src": "screenshots-raw/06-backup-dark.png", "out": "screenshots/06-backup-dark.png", "caption": "Back up every loop to one file" }
+  ]
+}
