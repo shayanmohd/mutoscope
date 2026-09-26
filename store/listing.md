@@ -36,7 +36,7 @@ DRAWING
 EXPORT
 - GIF that loops forever, or MP4, at 512, 720 or 1080 pixels
 - No watermark on anything you make
-- Save to your gallery or share
+- Save to your gallery or share (on Android 8 and 9, save to a folder you pick)
 
 YOUR WORK STAYS ON YOUR PHONE
 - No cloud, no sign-in, no permissions requested
